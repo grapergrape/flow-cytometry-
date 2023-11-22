@@ -1,0 +1,1 @@
+ICON_PATH = 'widgets/resources/icons'
